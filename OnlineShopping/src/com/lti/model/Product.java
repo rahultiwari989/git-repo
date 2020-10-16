@@ -4,10 +4,6 @@ public class Product {
 	int productId;
 	String productName;
 	String productDescription;
-	int quantity;
-	public int getQuantity(){
-	        return quantity;
-	}
 	public int getProductId() {
 		return productId;
 	}
