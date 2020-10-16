@@ -12,6 +12,7 @@ public class Product {
 	public int getQuantity(){
 	        return quantity;
 	}
+
 	public int getProductId() {
 		return productId;
 	}
